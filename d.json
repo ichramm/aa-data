@@ -1,0 +1,38 @@
+[
+ {
+  "id": "p1p2",
+  "wins": 115,
+  "draws": 124,
+  "losses": 11
+ },
+ {
+  "id": "p1p3",
+  "wins": 130,
+  "draws": 115,
+  "losses": 5
+ },
+ {
+  "id": "p2p1",
+  "wins": 198,
+  "draws": 49,
+  "losses": 3
+ },
+ {
+  "id": "p2p3",
+  "wins": 126,
+  "draws": 119,
+  "losses": 5
+ },
+ {
+  "id": "p3p1",
+  "wins": 193,
+  "draws": 57,
+  "losses": 0
+ },
+ {
+  "id": "p3p2",
+  "wins": 118,
+  "draws": 117,
+  "losses": 15
+ }
+]
